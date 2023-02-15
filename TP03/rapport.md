@@ -5,10 +5,15 @@ PRESENTATION
 Pour la preparation de l٬analyse forensic concernant le site web Bosch-cyber et l'attaque qui a eu lieu, je vais suivre les étapes suivantes:
 
 *Collecte de données
+
 *Analyse de la nature de l'attaque
+
 *Examen des données exfiltrées
+
 *faire une analyse étendue de l'attaque
+
 *Développement d'un plan de remédiation
+
 *faire le rapport d՚analyse
 
 INTRODUCTION 
