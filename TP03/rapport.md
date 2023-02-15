@@ -43,7 +43,7 @@ ELK (Elasticsearch, Logstash, Kibana) est un ensemble d'outils open source pour 
 
 RESULTATS
 ----------
-![logs](/home/samen/Pictures)
+![logs](/home/samen/Pictures.png)
 
 CONCLUSIONS
 -----------
