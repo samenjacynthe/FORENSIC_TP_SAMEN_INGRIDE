@@ -25,7 +25,7 @@ METHODOLOGIE
 La méthodologie  utilisée pour mener a bien cette analyse forensique constitue  plusieurs étapes, chacune ayant pour but de répondre à des questions spécifiques sur l'attaque subie par le site web "bosch-cyber". Les étapes clés de l'analyse sont :
 
 1.Examinez les logs du serveur web pour trouver des preuves d'activité suspecte, telle que des connexions sortantes vers des adresses IP inconnues.Pour ce faire nous allons utilisé les  commandes suivantes 
-
+===========================================================================================================================================================================================================================
 *tail -f /var/log/apache2/access.log :Cette commande affiche en temps réel les entrées les plus récentes du fichier de log d'accès d'Apache
 
 *grep "client denied by server configuration" /var/log/apache2/error.log :pour afficher les entrées les plus récentes du fichier de log d'erreur d'Apache.  
